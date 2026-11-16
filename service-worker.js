@@ -1,4 +1,4 @@
-const CACHE_NAME = 'robohand-tablet-v7';
+const CACHE_NAME = 'robohand-tablet-v8';
 const APP_FILES = [
   './',
   './index.html',
